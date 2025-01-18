@@ -38,12 +38,7 @@ https://demo-kyreki-first-project.netlify.app/
 git clone https://github.com/kyreki/_kyreki-first-project.git 
 ```
 
-2.Navigate to the project folder:
-```bash
-cd kyreki-website
-```
-
-3.Open the `index.html` file in your favorite browser.
+2.Open the `index.html` file in your favorite browser.
 
 ---
 
