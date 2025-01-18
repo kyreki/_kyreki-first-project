@@ -96,4 +96,6 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ---
 
-https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=Thank+You&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=145&color=gradient&text=Thank+You&section=footer&reversal=false&animation=blinking&textBg=false&fontAlignY=75" />
+</div>
