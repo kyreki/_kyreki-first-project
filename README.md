@@ -18,7 +18,7 @@ Welcome to the _kyreki web project! This is a visually stunning and interactive 
 
 ##📸 Preview
 
-
+https://demo-kyreki-first-project.netlify.app/
 
 ---
 
