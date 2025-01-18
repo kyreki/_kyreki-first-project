@@ -16,7 +16,7 @@ Welcome to the _kyreki web project! This is a visually stunning and interactive 
 - Social Media Integration: Direct links to GitHub profile.
 ---
 
-##📸 Preview
+## 📸 Preview
 
 https://demo-kyreki-first-project.netlify.app/
 
